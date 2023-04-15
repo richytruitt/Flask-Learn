@@ -6,7 +6,7 @@ Repo for flask learning
 2. using the cmd, "cd" into whatever Directory you want to work from
     - ``"cd C:\Users\richy\Documents\Development"``
 
-3. run git clone https://github.com/richytruitt/Flask-Learn.git
+3. run ``git clone https://github.com/richytruitt/Flask-Learn.git``
 
 4. "cd" into the Flask-Learn directory
 
