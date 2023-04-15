@@ -1,0 +1,22 @@
+- INstall git: https://www.youtube.com/watch?v=4xqVv2lTo40
+
+- using the cmd, "cd" into whatever Directory you want to work from
+    - "cd C:\Users\richy\Documents\Development"
+
+- run git clone https://github.com/richytruitt/Flask-Learn.git
+
+- "cd" into the Flask-Learn directory
+
+- create and activate virtual environment
+    - python -m venv flask-learn-venv
+    - on windows: cd flask-learn-venv\Scripts then run "activate"
+    - on Linux/Unix: source flask-learn-venv/bin/activate
+
+- install flask
+    - pip install flask
+
+- if you run a "pip freeze" you should be able to see that flask and all of its dependencies are installed to your virtual environment
+
+- run flask run -p 5555 from the main directory
+
+- you should be able to see your app running
